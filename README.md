@@ -4,7 +4,6 @@
 ## About Me  
 
 <p align=”center”>
-[link](https://www.linkedin.com/in/liat-guvenc-8394b0179/)
 <a href=”https://www.linkedin.com/in/liat-guvenc-8394b0179/”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
