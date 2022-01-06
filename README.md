@@ -1,12 +1,12 @@
 
 # Hi There ⚡  
 
+[![Liat's GitHub stats](https://github-readme-stats.vercel.app/api?username=liat-g)](https://github.com/liat-g/github-readme-stats)
+
 ## About Me  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/liat-guvenc-8394b0179/)
 &nbsp;
-
-[![Liat's GitHub stats](https://github-readme-stats.vercel.app/api?username=liat-g)](https://github.com/liat-g/github-readme-stats)
 
 💬 I am Liat Guvenc, a Front End and Fullstack Developer and graduate of the Grace Hopper program.
 
