@@ -3,11 +3,8 @@
 
 ## About Me  
 
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/liat-guvenc-8394b0179/)
+&nbsp;
 
 💬 I am Liat Guvenc, a Front End and Fullstack Developer and graduate of the Grace Hopper program.
 
